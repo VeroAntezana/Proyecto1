@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Cubo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ancho>10</ancho>
+  <alto>10</alto>
+  <profundidad>10</profundidad>
+  <origen>
+    <ejeX>0</ejeX>
+    <ejeY>0</ejeY>
+    <ejeZ>0</ejeZ>
+    <x>0</x>
+    <y>0</y>
+    <z>0</z>
+  </origen>
+</Cubo>

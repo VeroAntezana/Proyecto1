@@ -1,0 +1,31 @@
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\obj\Debug\Proyecto1_01.csproj.AssemblyReference.cache
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\obj\Debug\Proyecto1_01.csproj.CoreCompileInputs.cache
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\bin\Debug\Proyecto1_01.exe.config
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\bin\Debug\Proyecto1_01.exe
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\bin\Debug\Proyecto1_01.pdb
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\bin\Debug\OpenTK.dll
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\bin\Debug\OpenTK.pdb
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\bin\Debug\OpenTK.xml
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\obj\Debug\Proyecto1_01.exe
+C:\Users\darwin\Documents\Visual Studio 2019\project\Proyecto1_01\obj\Debug\Proyecto1_01.pdb
+C:\MJP\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe.config
+C:\MJP\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.exe
+C:\MJP\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.pdb
+C:\MJP\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csprojResolveAssemblyReference.cache
+C:\MJP\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe
+C:\MJP\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.pdb
+C:\MJP\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.dll
+C:\MJP\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.pdb
+C:\MJP\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.xml
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe.config
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.exe
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\bin\Debug\Proyecto1_01.pdb
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.dll
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.pdb
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\bin\Debug\OpenTK.xml
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csproj.AssemblyReference.cache
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csproj.SuggestedBindingRedirects.cache
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csproj.CoreCompileInputs.cache
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csproj.CopyComplete
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.exe
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.pdb

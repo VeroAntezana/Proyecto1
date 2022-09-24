@@ -29,3 +29,5 @@ D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyect
 D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.csproj.CopyComplete
 D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.exe
 D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\obj\Debug\Proyecto1_01.pdb
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\bin\Debug\Newtonsoft.Json.dll
+D:\Veronica\Programacion Grafica\Ejemplo\ELC102-Proyecto1-tarea-1\ELC102-Proyecto1-tarea-1\bin\Debug\Newtonsoft.Json.xml

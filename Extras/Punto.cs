@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto1
 {
-   
+    [Serializable]
     public class Punto
     {
         //atributos
@@ -71,6 +71,9 @@ namespace Proyecto1
         {
             this.ejeX = this.ejeY = this.ejeZ = valor;
         }
+
+       
+        
         //-----------------------------------------------------------------------------------------------------------------
         public bool compareTo(Punto a)
         {

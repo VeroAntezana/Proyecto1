@@ -7,7 +7,7 @@ using System.Xml;
 using System.Xml.Serialization;
 using OpenTK;
 using OpenTK.Graphics;
-
+using Newtonsoft.Json;
 using OpenTK.Graphics.OpenGL;
 using System.Drawing;
 
@@ -21,7 +21,7 @@ namespace Proyecto1
         public Punto origen;
 
 
-        XmlSerializer serializer;
+       // XmlSerializer serializer;
         public Cubo(Punto p, float ancho, float alto, float profundidad)
         {
             origen = p;

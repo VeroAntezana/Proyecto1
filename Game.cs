@@ -11,8 +11,9 @@ using System.Xml;
 using System.Xml.Serialization;
 using System.IO;
 using System.Collections;
-
+using Newtonsoft.Json;
 using System.Threading.Tasks;
+using Proyecto1_01;
 
 namespace Proyecto1
 {
@@ -33,33 +34,35 @@ namespace Proyecto1
         {
             GL.ClearColor(Color4.Black);
             cubo = new Cubo(new Punto(), 10, 10 ,10);
-            XmlSerializer ser = new XmlSerializer(typeof(Cubo));
-            Stream myStream = new FileStream("myDoc.xml", FileMode.Create, FileAccess.Write);
-            ser.Serialize(myStream, cubo);
-            myStream.Close();
+            //XmlSerializer ser = new XmlSerializer(typeof(Cubo));
+            //Stream myStream = new FileStream("myDoc.xml", FileMode.Create, FileAccess.Write);
+            //ser.Serialize(myStream, cubo);
+            //myStream.Close();
             //Deserializar
             //Stream stream= new FileStream("myDoc.xml",FileMode.Open, FileAccess.Read);
-            Console.WriteLine("Reading with TextReader");
-            XmlSerializer serializer = new XmlSerializer(typeof(Cubo));
-           // FileStream fs = new FileStream("myDoc.xml", FileMode.OpenOrCreate);
-           // TextReader reader = new StreamReader(fs);
-            Cubo i;
+            //Console.WriteLine("Reading with TextReader");
+            //XmlSerializer serializer = new XmlSerializer(typeof(Cubo));
+            // FileStream fs = new FileStream("myDoc.xml", FileMode.OpenOrCreate);
+            // TextReader reader = new StreamReader(fs);
+            /* Cubo i;
 
-           using (Stream reader = new FileStream("myDoc.xml", FileMode.Open))
-            {
-                // Call the Deserialize method to restore the object's state.
-                i = (Cubo)serializer.Deserialize(reader);
-            }
+            using (Stream reader = new FileStream("myDoc.xml", FileMode.Open))
+             {
+                 // Call the Deserialize method to restore the object's state.
+                 i = (Cubo)serializer.Deserialize(reader);
+             }
 
-            // Write out the properties of the object.
-            Console.Write(
-            i.origen+ "\t" +
-            i.ancho+ "\t" +
-            i.alto + "\t" +
-            i.alto  + "\t" 
-           // i.LineTotal
-           );
-
+             // Write out the properties of the object.
+             Console.Write(
+             i.origen+ "\t" +
+             i.ancho+ "\t" +
+             i.alto + "\t" +
+             i.alto  + "\t" 
+            // i.LineTotal
+            );
+            */
+            string ob = File.ReadAllText("myDoc.json");
+            Objeto Cubo = JsonConvert.DeserializeObject<Objeto>(ob);
             base.OnLoad(e);    //
         }
         //-----------------------------------------------------------------------------------------------------------------
@@ -80,6 +83,7 @@ namespace Proyecto1
             this.cubo.Dibujar();
             //-----------------------
             Context.SwapBuffers(); //pinta el objeto
+            
             base.OnRenderFrame(e);
 			//Esta sentencia todo el tiempo se esta ejecutando 
         }

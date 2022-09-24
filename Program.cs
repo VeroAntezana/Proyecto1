@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Xml;
 
 using System.Xml.Serialization;
-
+using Newtonsoft.Json;
 namespace Proyecto1_01
 {
     class Program
@@ -15,6 +15,8 @@ namespace Proyecto1_01
         static void Main(string[] args)
         {
             Cubo p = new Cubo();
+            Poligono c = new Poligono();
+
             Game juego = new Game(800, 600, "Demo OpenTK");
             juego.Run(60);
         }
